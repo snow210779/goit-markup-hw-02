@@ -25,7 +25,7 @@ body{
         font-family: Raleway;
         font-weight: 800;
         line-height: 1.17;
-        letter-spacing: -0.03em;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 
@@ -39,7 +39,7 @@ font-size: 16px;
 font-family: Roboto;
 font-weight: 500;
 line-height: 1.5;
-letter-spacing: -0.02em;
+letter-spacing: 0.02em;
 }
 
 .header-contacs-link{
@@ -48,7 +48,7 @@ color:  var(---accent-color);
 font-size: 16px;
 font-family: Roboto;
 line-height: 1.15;
-letter-spacing: -0.02em;
+letter-spacing: 0.02em;
 }
 
 /*-----MAIN-FIRST------------*/
@@ -62,7 +62,7 @@ text-align: center;
 font-size: 56px;
 font-weight: 700;
 line-height: 1.07;
-letter-spacing: -0.02em;
+letter-spacing: 0.02em;
 }
 
 .main-first-btn{
@@ -71,7 +71,7 @@ color:  #FFF;
 font-size: 16px;
 font-weight: 500;
 line-height: 0.15;
-letter-spacing: -0.04em;
+letter-spacing: 0.04em;
 }
 
 /*-----MAIN-SECOND------------*/
@@ -81,7 +81,7 @@ letter-spacing: -0.04em;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
-        letter-spacing: -0.02em;
+        letter-spacing: 0.02em;
 }
 
 .main-second-item{
@@ -90,7 +90,7 @@ letter-spacing: -0.04em;
         font-size: 16px;
         font-family: Roboto;
         line-height: 1.15;
-        letter-spacing: -0.02em;
+        letter-spacing: 0.02em;
 }
 
 /*-----MAIN-THIRD------------*/
@@ -105,7 +105,7 @@ letter-spacing: -0.04em;
         font-size: 36px;
         font-weight: 700;
         line-height: 1.11;
-        letter-spacing: -0.02em;
+        letter-spacing: 0.02em;
         text-transform: capitalize;
 }
 
@@ -134,7 +134,7 @@ background-color: #F4F4FD;
         font-size: 36px;
         font-weight: 700;
         line-height: 1.11;
-        letter-spacing: -0.02em;
+        letter-spacing: 0.02em;
         text-transform: capitalize;
 }
 .fourth-background-Mark{
@@ -153,14 +153,14 @@ background-color: #F4F4FD;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
-        letter-spacing: -0.02em;
+        letter-spacing: 0.02em;
 }
 .fourth-profession{
     color: #434455;
     text-align: center;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
 /*-----FOOTER------------*/
@@ -175,20 +175,16 @@ background-color: #F4F4FD;
         font-family: Raleway;
         font-weight: 800;
         line-height: 1.17;
-        letter-spacing: -0.03em;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 .footer-title-accent{
         color:  #F4F4FD;
 }
 .footer-description{
-        display: flex;
-        width: 264px;
-        flex-direction: column;
-        flex-shrink: 0;
-
+        
     color:  #F4F4FD;
         font-size: 16px;
         line-height: 1.5;
-        letter-spacing: -0.02em;
+        letter-spacing: 0.02em;
 }

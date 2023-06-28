@@ -70,7 +70,7 @@ background-color:  #4D5AE5;
 color:  #FFF;
 font-size: 16px;
 font-weight: 500;
-line-height: 0.15;
+line-height: 1.5;
 letter-spacing: 0.04em;
 }
 
@@ -89,7 +89,7 @@ letter-spacing: 0.04em;
         color:  var(---accent-color);
         font-size: 16px;
         font-family: Roboto;
-        line-height: 1.15;
+        line-height: 1.5;
         letter-spacing: 0.02em;
 }
 
@@ -138,7 +138,7 @@ background-color: #F4F4FD;
         text-transform: capitalize;
 }
 .fourth-background-Mark{
-        background-color:  #FFF;
+        background-color:  #FFFFFF;
         
 }
 .fourth-background-Tom{
@@ -182,9 +182,8 @@ background-color: #F4F4FD;
         color:  #F4F4FD;
 }
 .footer-description{
-        
     color:  #F4F4FD;
         font-size: 16px;
         line-height: 1.5;
-        letter-spacing: 0.02em;
+        letter-spacing: -0.02em;
 }

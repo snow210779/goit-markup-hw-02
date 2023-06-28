@@ -137,11 +137,11 @@ background-color: #F4F4FD;
         letter-spacing: 0.02em;
         text-transform: capitalize;
 }
-.fourth-background-Mark{
+.fourth-background-mark{
         background-color:  #FFFFFF;
         
 }
-.fourth-background-Tom{
+.fourth-background-tom{
         background: url(<path-to-image>),
         lightgray -335.01px -22.055px / 256.162% 173.614% no-repeat;
 
@@ -185,5 +185,5 @@ background-color: #F4F4FD;
     color:  #F4F4FD;
         font-size: 16px;
         line-height: 1.5;
-        letter-spacing: -0.02em;
+        letter-spacing: 0.02em;
 }

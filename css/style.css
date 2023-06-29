@@ -56,7 +56,7 @@ letter-spacing: 0.02em;
 
 .header-contacs-link:hover,
 .header-contacs-link:focus{
-   color: #404bbf; 
+ color: #404bbf;
 }
 
 /*-----MAIN-FIRST------------*/
@@ -207,9 +207,9 @@ background-color: #F4F4FD;
 /*-----PORTFOLIO HEADER------------*/
 
 .nav-logo{
-    color:  #4D5AE5;
+    font-family: 'Raleway',
+        sans-serif;
     font-size: 18px;
-    font-family: Raleway;
     font-style: normal;
     font-weight: 800;
     line-height: 1.17;
@@ -229,7 +229,7 @@ background-color: #F4F4FD;
         font-style: normal;
         font-weight: 500;
         line-height: 1.5;
-        letter-spacing: 0.02;
+        letter-spacing: 0.02em;
 }
 
 .socials-contacts-link{
@@ -243,8 +243,7 @@ background-color: #F4F4FD;
 }
 
 .socials-contacts-link:hover,
-.socials-contacts-link:focus
-{
+.socials-contacts-link:focus{
     color: #404BBF;
 }
 

@@ -272,7 +272,7 @@ color: #404BBF;
 /*-----PORTFOLIO BUTTON------------*/
 
 .button-link-all{
-    color: #4d5ae5
+    color: #FFF;
     text-align: center;
     font-size: 16px;
     font-family: Roboto,sans-serif;
@@ -280,5 +280,18 @@ color: #404BBF;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    background-color: #404BBF;
+    cursor: pointer;
+}
+
+.button-link-all:hover{
+    color: #FFFFFF;  
+}
+.button-link-all:focus{
+    color: #FFFFFF;
+}
+
+
+.button-item-all{
+color: #4d5ae5;
+background-color: #F4F4FD;
 }

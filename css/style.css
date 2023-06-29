@@ -155,15 +155,11 @@ background-color: #F4F4FD;
         letter-spacing: 0.02em;
         text-transform: capitalize;
 }
-.fourth-background-mark{
-        background-color:  #FFFFFF;
-        
-}
-.fourth-background-tom{
-        background: url(<path-to-image>),
-        lightgray -335.01px -22.055px / 256.162% 173.614% no-repeat;
 
+.fourth-background-img{
+    background-color: #FFFFFF
 }
+
 .fourth-subtitle{
 
         color:  #2E2F42;
@@ -183,7 +179,7 @@ background-color: #F4F4FD;
 
 /*-----FOOTER------------*/
 .footer{
-
+    font-family: "Raleway", sans-serif;
     background-color:  #2E2F42;
 }
 

@@ -54,7 +54,9 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.header-contacs-link:hover,
+.header-contacs-link:hover{
+color:#404bbf;
+}
 .header-contacs-link:focus{
  color: #404bbf;
 }
@@ -207,8 +209,7 @@ background-color: #F4F4FD;
 /*-----PORTFOLIO HEADER------------*/
 
 .nav-logo{
-    font-family: 'Raleway',
-        sans-serif;
+    color: #4D5AE5;
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
@@ -232,8 +233,15 @@ background-color: #F4F4FD;
         letter-spacing: 0.02em;
 }
 
+.nav-logo-title:hover{
+    color: #404bbf
+}
+.nav-logo-title:focus{
+    color: #404bbf
+}
+
 .socials-contacts-link{
-        color: ---accent-color;
+        color: var(---accent-color);
         font-size: 16px;
         font-family: Roboto;
         font-style: normal;
@@ -242,7 +250,9 @@ background-color: #F4F4FD;
         letter-spacing: 0.02em;
 }
 
-.socials-contacts-link:hover,
+.socials-contacts-link:hover{
+color: #404BBF;
+}
 .socials-contacts-link:focus{
     color: #404BBF;
 }

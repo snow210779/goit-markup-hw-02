@@ -54,12 +54,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.header-list-link:hover{
+.header-list-link:hover,.header-list-link:focus{
    color: #404bbf; 
-}
-
-.header-list-link:focus{
-    color: #404bbf;
 }
 
 /*-----MAIN-FIRST------------*/

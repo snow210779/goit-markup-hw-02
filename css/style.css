@@ -54,7 +54,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.header-list-link:hover,.header-list-link:focus{
+.header-contacs-link:hover,.header-contacs-link:focus{
    color: #404bbf; 
 }
 
@@ -145,7 +145,6 @@ background-color: #F4F4FD;
 }
         
 
-
 .fourth-title{
         color:  #2E2F42;
         text-align: center;
@@ -156,7 +155,7 @@ background-color: #F4F4FD;
         text-transform: capitalize;
 }
 
-.fourth-background-img{
+.fourth-img{
     background-color: #FFFFFF
 }
 
@@ -179,15 +178,13 @@ background-color: #F4F4FD;
 
 /*-----FOOTER------------*/
 .footer{
-    font-family: "Raleway", sans-serif;
     background-color:  #2E2F42;
 }
 
 .footer-title{
-        font-family: "Raleway", sans-serif;
+        font-family: Raleway;
         color:  #4D5AE5;
         font-size: 18px;
-        font-family: Raleway;
         font-weight: 800;
         line-height: 1.17;
         letter-spacing: 0.03em;

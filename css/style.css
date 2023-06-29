@@ -292,6 +292,12 @@ color: #404BBF;
 
 
 .button-item-all{
-
 background-color: #F4F4FD;
+}
+.button-item-all:hover{
+    background-color: #404BBF;
+}
+
+.button-item-all:focus{
+    background-color: #404BBF;
 }

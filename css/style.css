@@ -20,7 +20,7 @@ body{
 /*------HEADER-------------*/
 
 .header-logo {
-        font-family: Raleway; sans-serif;
+        font-family: Raleway, sans-serif; 
         color: #4D5AE5;
         font-size: 18px;
         font-weight: 800;
@@ -192,7 +192,7 @@ background-color: #F4F4FD;
 }
 
 .footer-title{
-        font-family: Raleway;
+        font-family: Raleway, sans-serif;
         color:  #4D5AE5;
         font-size: 18px;
         font-weight: 800;
@@ -216,6 +216,7 @@ background-color: #F4F4FD;
 /*-----PORTFOLIO HEADER------------*/
 
 .nav-logo{
+    font-family: 'Raleway', sans-serif
     color: #4D5AE5;
     font-size: 18px;
     font-style: normal;

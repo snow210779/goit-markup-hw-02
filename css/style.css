@@ -47,7 +47,7 @@ color:  var(---accent-color);
 font-style: normal;
 font-size: 16px;
 font-family: Roboto;
-line-height: 1.15;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
@@ -55,7 +55,7 @@ letter-spacing: 0.02em;
    color: #404bbf; 
 }
 
-.header-list:focus{
+.header-list-link:focus{
     color: #404bbf;
 }
 

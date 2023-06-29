@@ -271,7 +271,7 @@ color: #404BBF;
 
 /*-----PORTFOLIO BUTTON------------*/
 
-.button-link-all{
+.button-link{
     color: #4d5ae5;
     text-align: center;
     font-size: 16px;
@@ -283,21 +283,21 @@ color: #404BBF;
     cursor: pointer;
 }
 
-.button-link-all:hover{
+.button-link:hover{
     color: #FFFFFF;  
 }
-.button-link-all:focus{
+.button-link:focus{
     color: #FFFFFF;
 }
 
 
-.button-item-all{
+.button-item{
 background-color: #F4F4FD;
 }
-.button-item-all:hover{
+.button-item:hover{
     background-color: #404BBF;
 }
 
-.button-item-all:focus{
+.button-item:focus{
     background-color: #404BBF;
 }

@@ -20,6 +20,7 @@ body{
 /*------HEADER-------------*/
 
 .header-logo {
+        font-family:  "Raleway", sans-serif;
         color: #4D5AE5;
         font-size: 18px;
         font-weight: 800;
@@ -65,6 +66,7 @@ background-color:  #2E2F42;
 }
 
 .main-first-title{
+font-family: "Roboto", sans-serif;
 color:  #FFF;
 text-align: center;
 font-size: 56px;
@@ -80,6 +82,14 @@ font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
+}
+
+.main-first-btn:hover{
+    background-color: #404BBF
+}
+
+.main-first-btn:focus {
+    background-color: #404BBF
 }
 
 /*-----MAIN-SECOND------------*/

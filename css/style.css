@@ -4,7 +4,7 @@
 }
 
 body{
-    font-family: "Roboto", sans-serif;
+    font-family: Roboto, sans-serif;
     color: #434455;
     background-color: #ffffff;
 }
@@ -19,10 +19,9 @@ body{
 
 /*------HEADER-------------*/
 
-.header-title {
+.header-logo {
         color: #4D5AE5;
         font-size: 18px;
-        font-family: Raleway;
         font-weight: 800;
         line-height: 1.17;
         letter-spacing: 0.03em;
@@ -45,10 +44,19 @@ letter-spacing: 0.02em;
 .header-contacs-link{
 
 color:  var(---accent-color);
+font-style: normal;
 font-size: 16px;
 font-family: Roboto;
 line-height: 1.15;
 letter-spacing: 0.02em;
+}
+
+.header-list-link:hover{
+   color: #404bbf; 
+}
+
+.header-list:focus{
+    color: #404bbf;
 }
 
 /*-----MAIN-FIRST------------*/

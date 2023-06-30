@@ -216,7 +216,7 @@ background-color: #F4F4FD;
 /*-----PORTFOLIO HEADER------------*/
 
 .nav-logo{
-    font-family: 'Raleway', sans-serif
+    font-family: Raleway, sans-serif
     color: #4D5AE5;
     font-size: 18px;
     font-style: normal;
@@ -327,7 +327,7 @@ background-color: #F4F4FD;
 .footer-logo{
     color:  #4D5AE5;
     font-size: 18px;
-    font-family: Raleway, sans-serif
+    font-family:  Raleway, sans-serif
     font-style: normal;
     font-weight: 800;
     line-height: 1.17;

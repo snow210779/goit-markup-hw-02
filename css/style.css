@@ -271,7 +271,7 @@ color: #404BBF;
 
 /*-----PORTFOLIO BUTTON------------*/
 
-.button-link{
+.button-item{
     color: #4d5ae5;
     text-align: center;
     font-size: 16px;
@@ -281,26 +281,16 @@ color: #404BBF;
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
+    background-color: #F4F4FD;
 }
 
-.button-link:hover{
-    color: #FFFFFF;  
-}
-.button-link:focus{
-    color: #FFFFFF;
-}
-
-
-.button-item{
-background-color: #F4F4FD;
-}
-.button-item:hover{
-    background-color: #404BBF;
-}
-
+.button-item:hover,
 .button-item:focus{
-    background-color: #404BBF;
+    color: #FFFFFF;
+    background-color: #404BBF
 }
+
+
 
 /*-----PORTFOLIO IMG------------*/
 .img-title{
